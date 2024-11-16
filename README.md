@@ -1,6 +1,6 @@
 # 📚 Bem-vindo à nossa Estante Literária! 📚
  
-Olá, querido(a) visitante! Se você chegou até aqui, é porque também ama livros tanto quanto eu. Aqui, na nossa biblioteca, cada página é uma nova aventura, e cada livro é uma história esperando para ser descoberta. 🌟
+Olá, querido(a) visitante! Se você chegou até aqui, é porque também ama livros tanto quanto eu. Aqui, na minha (agora nossa) biblioteca, cada página é uma nova aventura, e cada livro é uma história esperando para ser descoberta. 🌟
 
 ![ezgif-6-a332f1dce4](https://github.com/user-attachments/assets/1e86a626-500c-43d2-811d-e42d7202525d)
 
